@@ -1,0 +1,4601 @@
+[
+  {
+    "id": "0",
+    "timestamp": "Sun Apr 12 22:10:38 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 34
+  },
+  {
+    "id": "1",
+    "timestamp": "Sun Apr 12 22:35:06 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 75
+  },
+  {
+    "id": "2",
+    "timestamp": "Sun Apr 12 22:49:47 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 9
+  },
+  {
+    "id": "3",
+    "timestamp": "Sun Apr 12 23:23:52 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 25
+  },
+  {
+    "id": "4",
+    "timestamp": "Sun Apr 12 23:53:57 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 52
+  },
+  {
+    "id": "5",
+    "timestamp": "Mon Apr 13 00:16:14 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 13
+  },
+  {
+    "id": "6",
+    "timestamp": "Mon Apr 13 00:40:03 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 42
+  },
+  {
+    "id": "7",
+    "timestamp": "Mon Apr 13 00:46:02 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 3
+  },
+  {
+    "id": "8",
+    "timestamp": "Mon Apr 13 00:59:32 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 38
+  },
+  {
+    "id": "9",
+    "timestamp": "Mon Apr 13 01:44:53 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 83
+  },
+  {
+    "id": "10",
+    "timestamp": "Mon Apr 13 01:45:46 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 80
+  },
+  {
+    "id": "11",
+    "timestamp": "Mon Apr 13 02:39:20 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 51
+  },
+  {
+    "id": "12",
+    "timestamp": "Mon Apr 13 03:05:01 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 52
+  },
+  {
+    "id": "13",
+    "timestamp": "Mon Apr 13 03:20:03 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 86
+  },
+  {
+    "id": "14",
+    "timestamp": "Mon Apr 13 03:50:43 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 41
+  },
+  {
+    "id": "15",
+    "timestamp": "Mon Apr 13 04:46:48 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 46
+  },
+  {
+    "id": "16",
+    "timestamp": "Mon Apr 13 05:06:27 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 36
+  },
+  {
+    "id": "17",
+    "timestamp": "Mon Apr 13 05:35:55 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 17
+  },
+  {
+    "id": "18",
+    "timestamp": "Mon Apr 13 05:52:47 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 72
+  },
+  {
+    "id": "19",
+    "timestamp": "Mon Apr 13 06:14:53 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 34
+  },
+  {
+    "id": "20",
+    "timestamp": "Mon Apr 13 06:32:31 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 49
+  },
+  {
+    "id": "21",
+    "timestamp": "Mon Apr 13 07:22:22 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 37
+  },
+  {
+    "id": "22",
+    "timestamp": "Mon Apr 13 07:30:13 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 7
+  },
+  {
+    "id": "23",
+    "timestamp": "Mon Apr 13 07:59:17 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 71
+  },
+  {
+    "id": "24",
+    "timestamp": "Mon Apr 13 08:16:17 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 3
+  },
+  {
+    "id": "25",
+    "timestamp": "Mon Apr 13 09:08:30 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 79
+  },
+  {
+    "id": "26",
+    "timestamp": "Mon Apr 13 10:06:04 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 5
+  },
+  {
+    "id": "27",
+    "timestamp": "Mon Apr 13 10:30:19 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 67
+  },
+  {
+    "id": "28",
+    "timestamp": "Mon Apr 13 10:49:37 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 56
+  },
+  {
+    "id": "29",
+    "timestamp": "Mon Apr 13 11:29:02 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 10
+  },
+  {
+    "id": "30",
+    "timestamp": "Mon Apr 13 11:40:22 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 31
+  },
+  {
+    "id": "31",
+    "timestamp": "Mon Apr 13 11:55:07 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 61
+  },
+  {
+    "id": "32",
+    "timestamp": "Mon Apr 13 12:28:03 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 63
+  },
+  {
+    "id": "33",
+    "timestamp": "Mon Apr 13 12:29:03 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 53
+  },
+  {
+    "id": "34",
+    "timestamp": "Mon Apr 13 12:52:38 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 27
+  },
+  {
+    "id": "35",
+    "timestamp": "Mon Apr 13 13:07:48 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 79
+  },
+  {
+    "id": "36",
+    "timestamp": "Mon Apr 13 13:23:34 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 2
+  },
+  {
+    "id": "37",
+    "timestamp": "Mon Apr 13 13:27:59 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 26
+  },
+  {
+    "id": "38",
+    "timestamp": "Mon Apr 13 13:39:52 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 30
+  },
+  {
+    "id": "39",
+    "timestamp": "Mon Apr 13 14:27:12 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 25
+  },
+  {
+    "id": "40",
+    "timestamp": "Mon Apr 13 15:21:56 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 61
+  },
+  {
+    "id": "41",
+    "timestamp": "Mon Apr 13 15:34:56 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 52
+  },
+  {
+    "id": "42",
+    "timestamp": "Mon Apr 13 16:26:18 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 65
+  },
+  {
+    "id": "43",
+    "timestamp": "Mon Apr 13 16:38:52 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 34
+  },
+  {
+    "id": "44",
+    "timestamp": "Mon Apr 13 16:45:19 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 44
+  },
+  {
+    "id": "45",
+    "timestamp": "Mon Apr 13 17:24:42 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 27
+  },
+  {
+    "id": "46",
+    "timestamp": "Mon Apr 13 17:59:45 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 61
+  },
+  {
+    "id": "47",
+    "timestamp": "Mon Apr 13 18:08:04 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 8
+  },
+  {
+    "id": "48",
+    "timestamp": "Mon Apr 13 18:29:44 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 23
+  },
+  {
+    "id": "49",
+    "timestamp": "Mon Apr 13 19:27:08 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 43
+  },
+  {
+    "id": "50",
+    "timestamp": "Mon Apr 13 19:43:57 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 1
+  },
+  {
+    "id": "51",
+    "timestamp": "Mon Apr 13 20:21:57 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 16
+  },
+  {
+    "id": "52",
+    "timestamp": "Mon Apr 13 20:46:26 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 44
+  },
+  {
+    "id": "53",
+    "timestamp": "Mon Apr 13 21:27:03 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 70
+  },
+  {
+    "id": "54",
+    "timestamp": "Mon Apr 13 21:41:19 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 78
+  },
+  {
+    "id": "55",
+    "timestamp": "Mon Apr 13 22:27:45 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 33
+  },
+  {
+    "id": "56",
+    "timestamp": "Mon Apr 13 23:13:26 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 6
+  },
+  {
+    "id": "57",
+    "timestamp": "Mon Apr 13 23:37:50 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 71
+  },
+  {
+    "id": "58",
+    "timestamp": "Mon Apr 13 23:49:41 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 58
+  },
+  {
+    "id": "59",
+    "timestamp": "Tue Apr 14 00:45:48 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 28
+  },
+  {
+    "id": "60",
+    "timestamp": "Tue Apr 14 01:35:26 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 61
+  },
+  {
+    "id": "61",
+    "timestamp": "Tue Apr 14 01:46:53 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 9
+  },
+  {
+    "id": "62",
+    "timestamp": "Tue Apr 14 02:37:52 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 53
+  },
+  {
+    "id": "63",
+    "timestamp": "Tue Apr 14 02:50:27 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 62
+  },
+  {
+    "id": "64",
+    "timestamp": "Tue Apr 14 03:29:11 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 85
+  },
+  {
+    "id": "65",
+    "timestamp": "Tue Apr 14 04:06:34 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 11
+  },
+  {
+    "id": "66",
+    "timestamp": "Tue Apr 14 05:04:59 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 20
+  },
+  {
+    "id": "67",
+    "timestamp": "Tue Apr 14 05:59:27 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 39
+  },
+  {
+    "id": "68",
+    "timestamp": "Tue Apr 14 06:22:00 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 3
+  },
+  {
+    "id": "69",
+    "timestamp": "Tue Apr 14 06:22:07 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 58
+  },
+  {
+    "id": "70",
+    "timestamp": "Tue Apr 14 06:44:05 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 63
+  },
+  {
+    "id": "71",
+    "timestamp": "Tue Apr 14 07:03:16 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 4
+  },
+  {
+    "id": "72",
+    "timestamp": "Tue Apr 14 07:14:41 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 54
+  },
+  {
+    "id": "73",
+    "timestamp": "Tue Apr 14 07:25:59 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 54
+  },
+  {
+    "id": "74",
+    "timestamp": "Tue Apr 14 08:01:42 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 27
+  },
+  {
+    "id": "75",
+    "timestamp": "Tue Apr 14 08:16:45 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 12
+  },
+  {
+    "id": "76",
+    "timestamp": "Tue Apr 14 08:58:41 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 71
+  },
+  {
+    "id": "77",
+    "timestamp": "Tue Apr 14 09:11:47 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 51
+  },
+  {
+    "id": "78",
+    "timestamp": "Tue Apr 14 09:30:40 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 22
+  },
+  {
+    "id": "79",
+    "timestamp": "Tue Apr 14 10:11:50 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 10
+  },
+  {
+    "id": "80",
+    "timestamp": "Tue Apr 14 10:12:10 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 21
+  },
+  {
+    "id": "81",
+    "timestamp": "Tue Apr 14 10:55:48 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 32
+  },
+  {
+    "id": "82",
+    "timestamp": "Tue Apr 14 11:51:10 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 45
+  },
+  {
+    "id": "83",
+    "timestamp": "Tue Apr 14 12:30:00 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 37
+  },
+  {
+    "id": "84",
+    "timestamp": "Tue Apr 14 12:43:15 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 78
+  },
+  {
+    "id": "85",
+    "timestamp": "Tue Apr 14 13:22:46 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 31
+  },
+  {
+    "id": "86",
+    "timestamp": "Tue Apr 14 14:18:34 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 22
+  },
+  {
+    "id": "87",
+    "timestamp": "Tue Apr 14 14:40:44 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 4
+  },
+  {
+    "id": "88",
+    "timestamp": "Tue Apr 14 15:38:43 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 50
+  },
+  {
+    "id": "89",
+    "timestamp": "Tue Apr 14 16:31:42 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 38
+  },
+  {
+    "id": "90",
+    "timestamp": "Tue Apr 14 17:02:42 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 35
+  },
+  {
+    "id": "91",
+    "timestamp": "Tue Apr 14 17:49:55 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 30
+  },
+  {
+    "id": "92",
+    "timestamp": "Tue Apr 14 18:19:57 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 76
+  },
+  {
+    "id": "93",
+    "timestamp": "Tue Apr 14 18:39:16 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 39
+  },
+  {
+    "id": "94",
+    "timestamp": "Tue Apr 14 18:43:18 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 8
+  },
+  {
+    "id": "95",
+    "timestamp": "Tue Apr 14 18:57:44 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 81
+  },
+  {
+    "id": "96",
+    "timestamp": "Tue Apr 14 19:04:12 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 31
+  },
+  {
+    "id": "97",
+    "timestamp": "Tue Apr 14 19:48:46 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 33
+  },
+  {
+    "id": "98",
+    "timestamp": "Tue Apr 14 20:16:28 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 25
+  },
+  {
+    "id": "99",
+    "timestamp": "Tue Apr 14 20:47:05 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 86
+  },
+  {
+    "id": "100",
+    "timestamp": "Tue Apr 14 21:45:13 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 29
+  },
+  {
+    "id": "101",
+    "timestamp": "Tue Apr 14 22:38:36 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 49
+  },
+  {
+    "id": "102",
+    "timestamp": "Tue Apr 14 22:48:49 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 75
+  },
+  {
+    "id": "103",
+    "timestamp": "Tue Apr 14 23:11:54 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 23
+  },
+  {
+    "id": "104",
+    "timestamp": "Tue Apr 14 23:21:00 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 4
+  },
+  {
+    "id": "105",
+    "timestamp": "Wed Apr 15 00:14:55 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 34
+  },
+  {
+    "id": "106",
+    "timestamp": "Wed Apr 15 01:00:04 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 75
+  },
+  {
+    "id": "107",
+    "timestamp": "Wed Apr 15 01:48:42 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 35
+  },
+  {
+    "id": "108",
+    "timestamp": "Wed Apr 15 02:09:31 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 16
+  },
+  {
+    "id": "109",
+    "timestamp": "Wed Apr 15 03:06:46 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 45
+  },
+  {
+    "id": "110",
+    "timestamp": "Wed Apr 15 03:11:36 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 43
+  },
+  {
+    "id": "111",
+    "timestamp": "Wed Apr 15 03:52:48 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 51
+  },
+  {
+    "id": "112",
+    "timestamp": "Wed Apr 15 04:14:29 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 19
+  },
+  {
+    "id": "113",
+    "timestamp": "Wed Apr 15 04:28:29 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 24
+  },
+  {
+    "id": "114",
+    "timestamp": "Wed Apr 15 04:34:39 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 13
+  },
+  {
+    "id": "115",
+    "timestamp": "Wed Apr 15 05:14:41 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 7
+  },
+  {
+    "id": "116",
+    "timestamp": "Wed Apr 15 05:17:18 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 34
+  },
+  {
+    "id": "117",
+    "timestamp": "Wed Apr 15 06:13:17 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 81
+  },
+  {
+    "id": "118",
+    "timestamp": "Wed Apr 15 07:11:20 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 8
+  },
+  {
+    "id": "119",
+    "timestamp": "Wed Apr 15 08:09:37 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 72
+  },
+  {
+    "id": "120",
+    "timestamp": "Wed Apr 15 08:45:20 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 26
+  },
+  {
+    "id": "121",
+    "timestamp": "Wed Apr 15 09:20:32 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 52
+  },
+  {
+    "id": "122",
+    "timestamp": "Wed Apr 15 10:15:58 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 18
+  },
+  {
+    "id": "123",
+    "timestamp": "Wed Apr 15 10:48:33 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 54
+  },
+  {
+    "id": "124",
+    "timestamp": "Wed Apr 15 11:37:56 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 22
+  },
+  {
+    "id": "125",
+    "timestamp": "Wed Apr 15 12:22:43 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 81
+  },
+  {
+    "id": "126",
+    "timestamp": "Wed Apr 15 12:50:47 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 4
+  },
+  {
+    "id": "127",
+    "timestamp": "Wed Apr 15 13:19:59 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 63
+  },
+  {
+    "id": "128",
+    "timestamp": "Wed Apr 15 14:03:56 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 80
+  },
+  {
+    "id": "129",
+    "timestamp": "Wed Apr 15 14:05:41 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 76
+  },
+  {
+    "id": "130",
+    "timestamp": "Wed Apr 15 14:13:00 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 5
+  },
+  {
+    "id": "131",
+    "timestamp": "Wed Apr 15 15:05:08 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 6
+  },
+  {
+    "id": "132",
+    "timestamp": "Wed Apr 15 15:09:51 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 15
+  },
+  {
+    "id": "133",
+    "timestamp": "Wed Apr 15 15:22:18 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 18
+  },
+  {
+    "id": "134",
+    "timestamp": "Wed Apr 15 15:48:00 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 6
+  },
+  {
+    "id": "135",
+    "timestamp": "Wed Apr 15 16:30:38 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 72
+  },
+  {
+    "id": "136",
+    "timestamp": "Wed Apr 15 17:10:20 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 72
+  },
+  {
+    "id": "137",
+    "timestamp": "Wed Apr 15 17:48:11 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 76
+  },
+  {
+    "id": "138",
+    "timestamp": "Wed Apr 15 18:02:52 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 80
+  },
+  {
+    "id": "139",
+    "timestamp": "Wed Apr 15 18:19:51 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 32
+  },
+  {
+    "id": "140",
+    "timestamp": "Wed Apr 15 18:41:20 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 31
+  },
+  {
+    "id": "141",
+    "timestamp": "Wed Apr 15 19:34:17 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 2
+  },
+  {
+    "id": "142",
+    "timestamp": "Wed Apr 15 20:06:12 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 7
+  },
+  {
+    "id": "143",
+    "timestamp": "Wed Apr 15 20:08:08 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 19
+  },
+  {
+    "id": "144",
+    "timestamp": "Wed Apr 15 20:25:23 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 29
+  },
+  {
+    "id": "145",
+    "timestamp": "Wed Apr 15 20:47:43 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 82
+  },
+  {
+    "id": "146",
+    "timestamp": "Wed Apr 15 21:31:28 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 4
+  },
+  {
+    "id": "147",
+    "timestamp": "Wed Apr 15 22:26:43 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 16
+  },
+  {
+    "id": "148",
+    "timestamp": "Wed Apr 15 22:29:42 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 63
+  },
+  {
+    "id": "149",
+    "timestamp": "Wed Apr 15 22:32:29 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 54
+  },
+  {
+    "id": "150",
+    "timestamp": "Wed Apr 15 22:37:33 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 74
+  },
+  {
+    "id": "151",
+    "timestamp": "Wed Apr 15 23:18:26 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 75
+  },
+  {
+    "id": "152",
+    "timestamp": "Wed Apr 15 23:24:46 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 31
+  },
+  {
+    "id": "153",
+    "timestamp": "Thu Apr 16 00:12:14 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 28
+  },
+  {
+    "id": "154",
+    "timestamp": "Thu Apr 16 00:46:27 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 55
+  },
+  {
+    "id": "155",
+    "timestamp": "Thu Apr 16 01:30:06 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 19
+  },
+  {
+    "id": "156",
+    "timestamp": "Thu Apr 16 01:37:25 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 72
+  },
+  {
+    "id": "157",
+    "timestamp": "Thu Apr 16 01:44:45 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 11
+  },
+  {
+    "id": "158",
+    "timestamp": "Thu Apr 16 02:06:32 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 52
+  },
+  {
+    "id": "159",
+    "timestamp": "Thu Apr 16 03:01:45 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 52
+  },
+  {
+    "id": "160",
+    "timestamp": "Thu Apr 16 03:58:43 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 70
+  },
+  {
+    "id": "161",
+    "timestamp": "Thu Apr 16 04:52:03 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 26
+  },
+  {
+    "id": "162",
+    "timestamp": "Thu Apr 16 05:11:52 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 42
+  },
+  {
+    "id": "163",
+    "timestamp": "Thu Apr 16 05:21:24 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 49
+  },
+  {
+    "id": "164",
+    "timestamp": "Thu Apr 16 05:21:58 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 1
+  },
+  {
+    "id": "165",
+    "timestamp": "Thu Apr 16 06:15:50 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 81
+  },
+  {
+    "id": "166",
+    "timestamp": "Thu Apr 16 07:15:42 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 55
+  },
+  {
+    "id": "167",
+    "timestamp": "Thu Apr 16 07:43:32 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 66
+  },
+  {
+    "id": "168",
+    "timestamp": "Thu Apr 16 08:21:53 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 73
+  },
+  {
+    "id": "169",
+    "timestamp": "Thu Apr 16 08:31:03 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 84
+  },
+  {
+    "id": "170",
+    "timestamp": "Thu Apr 16 09:12:44 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 33
+  },
+  {
+    "id": "171",
+    "timestamp": "Thu Apr 16 09:49:08 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 22
+  },
+  {
+    "id": "172",
+    "timestamp": "Thu Apr 16 10:42:35 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 68
+  },
+  {
+    "id": "173",
+    "timestamp": "Thu Apr 16 10:49:26 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 35
+  },
+  {
+    "id": "174",
+    "timestamp": "Thu Apr 16 11:18:58 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 3
+  },
+  {
+    "id": "175",
+    "timestamp": "Thu Apr 16 12:04:37 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 20
+  },
+  {
+    "id": "176",
+    "timestamp": "Thu Apr 16 12:06:09 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 84
+  },
+  {
+    "id": "177",
+    "timestamp": "Thu Apr 16 12:29:30 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 79
+  },
+  {
+    "id": "178",
+    "timestamp": "Thu Apr 16 12:50:57 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 18
+  },
+  {
+    "id": "179",
+    "timestamp": "Thu Apr 16 13:09:01 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 30
+  },
+  {
+    "id": "180",
+    "timestamp": "Thu Apr 16 13:52:13 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 72
+  },
+  {
+    "id": "181",
+    "timestamp": "Thu Apr 16 14:14:54 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 37
+  },
+  {
+    "id": "182",
+    "timestamp": "Thu Apr 16 14:34:20 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 7
+  },
+  {
+    "id": "183",
+    "timestamp": "Thu Apr 16 15:28:14 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 69
+  },
+  {
+    "id": "184",
+    "timestamp": "Thu Apr 16 15:48:08 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 17
+  },
+  {
+    "id": "185",
+    "timestamp": "Thu Apr 16 16:17:30 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 24
+  },
+  {
+    "id": "186",
+    "timestamp": "Thu Apr 16 16:37:04 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 49
+  },
+  {
+    "id": "187",
+    "timestamp": "Thu Apr 16 17:13:55 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 48
+  },
+  {
+    "id": "188",
+    "timestamp": "Thu Apr 16 18:05:54 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 17
+  },
+  {
+    "id": "189",
+    "timestamp": "Thu Apr 16 18:07:44 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 46
+  },
+  {
+    "id": "190",
+    "timestamp": "Thu Apr 16 18:15:00 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 9
+  },
+  {
+    "id": "191",
+    "timestamp": "Thu Apr 16 18:28:59 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 83
+  },
+  {
+    "id": "192",
+    "timestamp": "Thu Apr 16 18:36:19 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 38
+  },
+  {
+    "id": "193",
+    "timestamp": "Thu Apr 16 19:06:27 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 39
+  },
+  {
+    "id": "194",
+    "timestamp": "Thu Apr 16 19:42:24 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 50
+  },
+  {
+    "id": "195",
+    "timestamp": "Thu Apr 16 20:20:27 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 79
+  },
+  {
+    "id": "196",
+    "timestamp": "Thu Apr 16 20:36:32 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 55
+  },
+  {
+    "id": "197",
+    "timestamp": "Thu Apr 16 21:11:39 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 76
+  },
+  {
+    "id": "198",
+    "timestamp": "Thu Apr 16 21:27:28 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 68
+  },
+  {
+    "id": "199",
+    "timestamp": "Thu Apr 16 22:25:42 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 21
+  },
+  {
+    "id": "200",
+    "timestamp": "Thu Apr 16 22:58:10 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 84
+  },
+  {
+    "id": "201",
+    "timestamp": "Thu Apr 16 23:22:42 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 77
+  },
+  {
+    "id": "202",
+    "timestamp": "Thu Apr 16 23:24:01 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 76
+  },
+  {
+    "id": "203",
+    "timestamp": "Thu Apr 16 23:44:06 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 12
+  },
+  {
+    "id": "204",
+    "timestamp": "Fri Apr 17 00:29:40 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 10
+  },
+  {
+    "id": "205",
+    "timestamp": "Fri Apr 17 00:34:20 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 30
+  },
+  {
+    "id": "206",
+    "timestamp": "Fri Apr 17 01:15:34 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 31
+  },
+  {
+    "id": "207",
+    "timestamp": "Fri Apr 17 02:12:07 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 32
+  },
+  {
+    "id": "208",
+    "timestamp": "Fri Apr 17 02:26:42 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 32
+  },
+  {
+    "id": "209",
+    "timestamp": "Fri Apr 17 02:47:47 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 80
+  },
+  {
+    "id": "210",
+    "timestamp": "Fri Apr 17 03:17:32 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 84
+  },
+  {
+    "id": "211",
+    "timestamp": "Fri Apr 17 03:51:24 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 76
+  },
+  {
+    "id": "212",
+    "timestamp": "Fri Apr 17 04:29:14 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 31
+  },
+  {
+    "id": "213",
+    "timestamp": "Fri Apr 17 05:06:16 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 16
+  },
+  {
+    "id": "214",
+    "timestamp": "Fri Apr 17 05:26:28 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 86
+  },
+  {
+    "id": "215",
+    "timestamp": "Fri Apr 17 05:58:34 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 31
+  },
+  {
+    "id": "216",
+    "timestamp": "Fri Apr 17 06:48:34 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 64
+  },
+  {
+    "id": "217",
+    "timestamp": "Fri Apr 17 07:35:25 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 59
+  },
+  {
+    "id": "218",
+    "timestamp": "Fri Apr 17 08:02:50 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 5
+  },
+  {
+    "id": "219",
+    "timestamp": "Fri Apr 17 08:05:46 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 57
+  },
+  {
+    "id": "220",
+    "timestamp": "Fri Apr 17 08:54:27 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 64
+  },
+  {
+    "id": "221",
+    "timestamp": "Fri Apr 17 09:31:45 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 15
+  },
+  {
+    "id": "222",
+    "timestamp": "Fri Apr 17 10:07:58 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 78
+  },
+  {
+    "id": "223",
+    "timestamp": "Fri Apr 17 10:46:06 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 27
+  },
+  {
+    "id": "224",
+    "timestamp": "Fri Apr 17 11:21:33 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 43
+  },
+  {
+    "id": "225",
+    "timestamp": "Fri Apr 17 12:20:38 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 24
+  },
+  {
+    "id": "226",
+    "timestamp": "Fri Apr 17 12:28:20 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 80
+  },
+  {
+    "id": "227",
+    "timestamp": "Fri Apr 17 12:55:40 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 58
+  },
+  {
+    "id": "228",
+    "timestamp": "Fri Apr 17 13:20:57 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 52
+  },
+  {
+    "id": "229",
+    "timestamp": "Fri Apr 17 13:46:05 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 37
+  },
+  {
+    "id": "230",
+    "timestamp": "Fri Apr 17 13:51:22 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 63
+  },
+  {
+    "id": "231",
+    "timestamp": "Fri Apr 17 14:07:06 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 15
+  },
+  {
+    "id": "232",
+    "timestamp": "Fri Apr 17 14:35:00 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 19
+  },
+  {
+    "id": "233",
+    "timestamp": "Fri Apr 17 14:54:25 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 65
+  },
+  {
+    "id": "234",
+    "timestamp": "Fri Apr 17 15:35:15 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 73
+  },
+  {
+    "id": "235",
+    "timestamp": "Fri Apr 17 16:02:31 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 68
+  },
+  {
+    "id": "236",
+    "timestamp": "Fri Apr 17 16:05:07 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 15
+  },
+  {
+    "id": "237",
+    "timestamp": "Fri Apr 17 16:46:58 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 20
+  },
+  {
+    "id": "238",
+    "timestamp": "Fri Apr 17 17:32:37 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 35
+  },
+  {
+    "id": "239",
+    "timestamp": "Fri Apr 17 18:07:44 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 10
+  },
+  {
+    "id": "240",
+    "timestamp": "Fri Apr 17 18:53:03 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 49
+  },
+  {
+    "id": "241",
+    "timestamp": "Fri Apr 17 19:16:04 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 26
+  },
+  {
+    "id": "242",
+    "timestamp": "Fri Apr 17 19:40:28 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 15
+  },
+  {
+    "id": "243",
+    "timestamp": "Fri Apr 17 20:08:13 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 72
+  },
+  {
+    "id": "244",
+    "timestamp": "Fri Apr 17 20:51:04 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 29
+  },
+  {
+    "id": "245",
+    "timestamp": "Fri Apr 17 21:14:37 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 49
+  },
+  {
+    "id": "246",
+    "timestamp": "Fri Apr 17 22:01:09 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 30
+  },
+  {
+    "id": "247",
+    "timestamp": "Fri Apr 17 22:14:58 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 42
+  },
+  {
+    "id": "248",
+    "timestamp": "Fri Apr 17 22:49:53 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 44
+  },
+  {
+    "id": "249",
+    "timestamp": "Fri Apr 17 23:07:52 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 8
+  },
+  {
+    "id": "250",
+    "timestamp": "Sat Apr 18 00:02:01 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 45
+  },
+  {
+    "id": "251",
+    "timestamp": "Sat Apr 18 00:29:14 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 70
+  },
+  {
+    "id": "252",
+    "timestamp": "Sat Apr 18 01:00:45 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 61
+  },
+  {
+    "id": "253",
+    "timestamp": "Sat Apr 18 01:10:30 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 65
+  },
+  {
+    "id": "254",
+    "timestamp": "Sat Apr 18 01:50:41 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 81
+  },
+  {
+    "id": "255",
+    "timestamp": "Sat Apr 18 02:10:56 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 58
+  },
+  {
+    "id": "256",
+    "timestamp": "Sat Apr 18 02:48:56 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 60
+  },
+  {
+    "id": "257",
+    "timestamp": "Sat Apr 18 03:12:20 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 12
+  },
+  {
+    "id": "258",
+    "timestamp": "Sat Apr 18 03:13:40 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 24
+  },
+  {
+    "id": "259",
+    "timestamp": "Sat Apr 18 03:34:37 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 44
+  },
+  {
+    "id": "260",
+    "timestamp": "Sat Apr 18 04:30:38 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 26
+  },
+  {
+    "id": "261",
+    "timestamp": "Sat Apr 18 04:36:49 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 83
+  },
+  {
+    "id": "262",
+    "timestamp": "Sat Apr 18 05:17:41 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 76
+  },
+  {
+    "id": "263",
+    "timestamp": "Sat Apr 18 05:40:24 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 42
+  },
+  {
+    "id": "264",
+    "timestamp": "Sat Apr 18 06:23:06 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 41
+  },
+  {
+    "id": "265",
+    "timestamp": "Sat Apr 18 07:13:14 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 29
+  },
+  {
+    "id": "266",
+    "timestamp": "Sat Apr 18 08:06:03 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 79
+  },
+  {
+    "id": "267",
+    "timestamp": "Sat Apr 18 08:06:40 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 80
+  },
+  {
+    "id": "268",
+    "timestamp": "Sat Apr 18 08:19:16 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 59
+  },
+  {
+    "id": "269",
+    "timestamp": "Sat Apr 18 09:11:14 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 76
+  },
+  {
+    "id": "270",
+    "timestamp": "Sat Apr 18 09:16:16 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 79
+  },
+  {
+    "id": "271",
+    "timestamp": "Sat Apr 18 09:48:49 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 28
+  },
+  {
+    "id": "272",
+    "timestamp": "Sat Apr 18 09:51:24 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 27
+  },
+  {
+    "id": "273",
+    "timestamp": "Sat Apr 18 10:06:11 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 12
+  },
+  {
+    "id": "274",
+    "timestamp": "Sat Apr 18 10:47:49 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 59
+  },
+  {
+    "id": "275",
+    "timestamp": "Sat Apr 18 11:45:49 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 9
+  },
+  {
+    "id": "276",
+    "timestamp": "Sat Apr 18 12:02:02 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 78
+  },
+  {
+    "id": "277",
+    "timestamp": "Sat Apr 18 12:59:00 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 18
+  },
+  {
+    "id": "278",
+    "timestamp": "Sat Apr 18 13:19:18 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 71
+  },
+  {
+    "id": "279",
+    "timestamp": "Sat Apr 18 14:00:04 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 86
+  },
+  {
+    "id": "280",
+    "timestamp": "Sat Apr 18 14:46:29 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 1
+  },
+  {
+    "id": "281",
+    "timestamp": "Sat Apr 18 15:08:26 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 58
+  },
+  {
+    "id": "282",
+    "timestamp": "Sat Apr 18 15:35:16 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 69
+  },
+  {
+    "id": "283",
+    "timestamp": "Sat Apr 18 16:07:19 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 27
+  },
+  {
+    "id": "284",
+    "timestamp": "Sat Apr 18 16:18:27 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 78
+  },
+  {
+    "id": "285",
+    "timestamp": "Sat Apr 18 16:44:50 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 69
+  },
+  {
+    "id": "286",
+    "timestamp": "Sat Apr 18 17:23:53 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 40
+  },
+  {
+    "id": "287",
+    "timestamp": "Sat Apr 18 18:22:07 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 8
+  },
+  {
+    "id": "288",
+    "timestamp": "Sat Apr 18 18:45:41 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 86
+  },
+  {
+    "id": "289",
+    "timestamp": "Sat Apr 18 19:26:06 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 27
+  },
+  {
+    "id": "290",
+    "timestamp": "Sat Apr 18 19:59:39 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 33
+  },
+  {
+    "id": "291",
+    "timestamp": "Sat Apr 18 20:39:19 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 55
+  },
+  {
+    "id": "292",
+    "timestamp": "Sat Apr 18 21:04:09 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 7
+  },
+  {
+    "id": "293",
+    "timestamp": "Sat Apr 18 21:32:34 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 50
+  },
+  {
+    "id": "294",
+    "timestamp": "Sat Apr 18 21:49:53 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 21
+  },
+  {
+    "id": "295",
+    "timestamp": "Sat Apr 18 22:27:01 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 6
+  },
+  {
+    "id": "296",
+    "timestamp": "Sat Apr 18 23:06:45 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 19
+  },
+  {
+    "id": "297",
+    "timestamp": "Sat Apr 18 23:38:23 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 31
+  },
+  {
+    "id": "298",
+    "timestamp": "Sun Apr 19 00:03:14 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 39
+  },
+  {
+    "id": "299",
+    "timestamp": "Sun Apr 19 00:08:27 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 60
+  },
+  {
+    "id": "300",
+    "timestamp": "Sun Apr 19 00:57:58 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 6
+  },
+  {
+    "id": "301",
+    "timestamp": "Sun Apr 19 01:16:12 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 64
+  },
+  {
+    "id": "302",
+    "timestamp": "Sun Apr 19 01:19:02 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 80
+  },
+  {
+    "id": "303",
+    "timestamp": "Sun Apr 19 02:09:50 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 24
+  },
+  {
+    "id": "304",
+    "timestamp": "Sun Apr 19 02:39:15 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 30
+  },
+  {
+    "id": "305",
+    "timestamp": "Sun Apr 19 03:18:44 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 27
+  },
+  {
+    "id": "306",
+    "timestamp": "Sun Apr 19 04:02:02 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 45
+  },
+  {
+    "id": "307",
+    "timestamp": "Sun Apr 19 04:25:02 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 51
+  },
+  {
+    "id": "308",
+    "timestamp": "Sun Apr 19 05:14:41 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 62
+  },
+  {
+    "id": "309",
+    "timestamp": "Sun Apr 19 06:14:00 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 10
+  },
+  {
+    "id": "310",
+    "timestamp": "Sun Apr 19 06:17:04 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 20
+  },
+  {
+    "id": "311",
+    "timestamp": "Sun Apr 19 07:06:17 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 7
+  },
+  {
+    "id": "312",
+    "timestamp": "Sun Apr 19 07:09:15 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 45
+  },
+  {
+    "id": "313",
+    "timestamp": "Sun Apr 19 07:23:58 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 82
+  },
+  {
+    "id": "314",
+    "timestamp": "Sun Apr 19 08:20:33 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 1
+  },
+  {
+    "id": "315",
+    "timestamp": "Sun Apr 19 09:14:55 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 1
+  },
+  {
+    "id": "316",
+    "timestamp": "Sun Apr 19 09:25:31 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 6
+  },
+  {
+    "id": "317",
+    "timestamp": "Sun Apr 19 09:50:28 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 83
+  },
+  {
+    "id": "318",
+    "timestamp": "Sun Apr 19 10:03:43 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 64
+  },
+  {
+    "id": "319",
+    "timestamp": "Sun Apr 19 10:30:15 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 19
+  },
+  {
+    "id": "320",
+    "timestamp": "Sun Apr 19 10:41:43 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 13
+  },
+  {
+    "id": "321",
+    "timestamp": "Sun Apr 19 10:52:30 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 11
+  },
+  {
+    "id": "322",
+    "timestamp": "Sun Apr 19 11:31:02 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 84
+  },
+  {
+    "id": "323",
+    "timestamp": "Sun Apr 19 11:36:44 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 11
+  },
+  {
+    "id": "324",
+    "timestamp": "Sun Apr 19 12:09:40 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 4
+  },
+  {
+    "id": "325",
+    "timestamp": "Sun Apr 19 13:06:54 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 38
+  },
+  {
+    "id": "326",
+    "timestamp": "Sun Apr 19 13:12:20 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 9
+  },
+  {
+    "id": "327",
+    "timestamp": "Sun Apr 19 13:51:04 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 51
+  },
+  {
+    "id": "328",
+    "timestamp": "Sun Apr 19 14:16:30 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 10
+  },
+  {
+    "id": "329",
+    "timestamp": "Sun Apr 19 15:03:26 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 5
+  },
+  {
+    "id": "330",
+    "timestamp": "Sun Apr 19 15:38:47 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 82
+  },
+  {
+    "id": "331",
+    "timestamp": "Sun Apr 19 15:58:08 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 50
+  },
+  {
+    "id": "332",
+    "timestamp": "Sun Apr 19 16:21:04 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 86
+  },
+  {
+    "id": "333",
+    "timestamp": "Sun Apr 19 16:51:32 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 25
+  },
+  {
+    "id": "334",
+    "timestamp": "Sun Apr 19 16:55:20 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 7
+  },
+  {
+    "id": "335",
+    "timestamp": "Sun Apr 19 17:39:13 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 86
+  },
+  {
+    "id": "336",
+    "timestamp": "Sun Apr 19 17:52:54 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 46
+  },
+  {
+    "id": "337",
+    "timestamp": "Sun Apr 19 18:21:19 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 21
+  },
+  {
+    "id": "338",
+    "timestamp": "Sun Apr 19 19:19:01 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 13
+  },
+  {
+    "id": "339",
+    "timestamp": "Sun Apr 19 19:27:24 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 63
+  },
+  {
+    "id": "340",
+    "timestamp": "Sun Apr 19 20:04:41 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 40
+  },
+  {
+    "id": "341",
+    "timestamp": "Sun Apr 19 21:04:32 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 71
+  },
+  {
+    "id": "342",
+    "timestamp": "Sun Apr 19 21:11:30 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 14
+  },
+  {
+    "id": "343",
+    "timestamp": "Sun Apr 19 21:57:17 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 52
+  },
+  {
+    "id": "344",
+    "timestamp": "Sun Apr 19 22:52:24 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 20
+  },
+  {
+    "id": "345",
+    "timestamp": "Sun Apr 19 23:07:28 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 49
+  },
+  {
+    "id": "346",
+    "timestamp": "Sun Apr 19 23:41:12 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 57
+  },
+  {
+    "id": "347",
+    "timestamp": "Mon Apr 20 00:04:52 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 60
+  },
+  {
+    "id": "348",
+    "timestamp": "Mon Apr 20 00:09:29 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 63
+  },
+  {
+    "id": "349",
+    "timestamp": "Mon Apr 20 00:38:16 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 79
+  },
+  {
+    "id": "350",
+    "timestamp": "Mon Apr 20 00:39:38 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 41
+  },
+  {
+    "id": "351",
+    "timestamp": "Mon Apr 20 01:05:11 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 27
+  },
+  {
+    "id": "352",
+    "timestamp": "Mon Apr 20 01:58:22 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 69
+  },
+  {
+    "id": "353",
+    "timestamp": "Mon Apr 20 02:04:34 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 58
+  },
+  {
+    "id": "354",
+    "timestamp": "Mon Apr 20 02:06:31 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 76
+  },
+  {
+    "id": "355",
+    "timestamp": "Mon Apr 20 02:25:27 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 86
+  },
+  {
+    "id": "356",
+    "timestamp": "Mon Apr 20 03:06:05 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 19
+  },
+  {
+    "id": "357",
+    "timestamp": "Mon Apr 20 04:02:53 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 84
+  },
+  {
+    "id": "358",
+    "timestamp": "Mon Apr 20 04:56:47 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 12
+  },
+  {
+    "id": "359",
+    "timestamp": "Mon Apr 20 05:42:11 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 47
+  },
+  {
+    "id": "360",
+    "timestamp": "Mon Apr 20 05:52:44 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 9
+  },
+  {
+    "id": "361",
+    "timestamp": "Mon Apr 20 06:16:49 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 32
+  },
+  {
+    "id": "362",
+    "timestamp": "Mon Apr 20 06:46:40 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 2
+  },
+  {
+    "id": "363",
+    "timestamp": "Mon Apr 20 07:15:56 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 26
+  },
+  {
+    "id": "364",
+    "timestamp": "Mon Apr 20 08:08:04 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 18
+  },
+  {
+    "id": "365",
+    "timestamp": "Mon Apr 20 08:34:41 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 82
+  },
+  {
+    "id": "366",
+    "timestamp": "Mon Apr 20 09:01:44 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 56
+  },
+  {
+    "id": "367",
+    "timestamp": "Mon Apr 20 09:08:11 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 50
+  },
+  {
+    "id": "368",
+    "timestamp": "Mon Apr 20 09:24:58 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 8
+  },
+  {
+    "id": "369",
+    "timestamp": "Mon Apr 20 10:21:56 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 11
+  },
+  {
+    "id": "370",
+    "timestamp": "Mon Apr 20 11:01:47 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 66
+  },
+  {
+    "id": "371",
+    "timestamp": "Mon Apr 20 11:10:30 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 71
+  },
+  {
+    "id": "372",
+    "timestamp": "Mon Apr 20 11:49:47 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 38
+  },
+  {
+    "id": "373",
+    "timestamp": "Mon Apr 20 12:43:10 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 77
+  },
+  {
+    "id": "374",
+    "timestamp": "Mon Apr 20 13:03:40 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 15
+  },
+  {
+    "id": "375",
+    "timestamp": "Mon Apr 20 13:28:13 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 74
+  },
+  {
+    "id": "376",
+    "timestamp": "Mon Apr 20 14:05:32 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 75
+  },
+  {
+    "id": "377",
+    "timestamp": "Mon Apr 20 14:33:27 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 37
+  },
+  {
+    "id": "378",
+    "timestamp": "Mon Apr 20 14:56:31 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 82
+  },
+  {
+    "id": "379",
+    "timestamp": "Mon Apr 20 15:49:20 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 49
+  },
+  {
+    "id": "380",
+    "timestamp": "Mon Apr 20 16:41:32 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 54
+  },
+  {
+    "id": "381",
+    "timestamp": "Mon Apr 20 16:51:21 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 21
+  },
+  {
+    "id": "382",
+    "timestamp": "Mon Apr 20 17:34:37 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 38
+  },
+  {
+    "id": "383",
+    "timestamp": "Mon Apr 20 17:59:33 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 12
+  },
+  {
+    "id": "384",
+    "timestamp": "Mon Apr 20 18:06:42 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 35
+  },
+  {
+    "id": "385",
+    "timestamp": "Mon Apr 20 18:22:37 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 49
+  },
+  {
+    "id": "386",
+    "timestamp": "Mon Apr 20 19:13:53 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 22
+  },
+  {
+    "id": "387",
+    "timestamp": "Mon Apr 20 20:01:10 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 84
+  },
+  {
+    "id": "388",
+    "timestamp": "Mon Apr 20 20:21:10 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 8
+  },
+  {
+    "id": "389",
+    "timestamp": "Mon Apr 20 21:09:44 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 75
+  },
+  {
+    "id": "390",
+    "timestamp": "Mon Apr 20 21:30:26 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 67
+  },
+  {
+    "id": "391",
+    "timestamp": "Mon Apr 20 22:06:53 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 26
+  },
+  {
+    "id": "392",
+    "timestamp": "Mon Apr 20 22:40:17 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 22
+  },
+  {
+    "id": "393",
+    "timestamp": "Mon Apr 20 23:20:58 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 64
+  },
+  {
+    "id": "394",
+    "timestamp": "Tue Apr 21 00:06:04 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 23
+  },
+  {
+    "id": "395",
+    "timestamp": "Tue Apr 21 00:33:51 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 11
+  },
+  {
+    "id": "396",
+    "timestamp": "Tue Apr 21 00:38:26 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 80
+  },
+  {
+    "id": "397",
+    "timestamp": "Tue Apr 21 00:44:39 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 17
+  },
+  {
+    "id": "398",
+    "timestamp": "Tue Apr 21 01:22:13 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 4
+  },
+  {
+    "id": "399",
+    "timestamp": "Tue Apr 21 02:09:24 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 12
+  },
+  {
+    "id": "400",
+    "timestamp": "Tue Apr 21 02:51:11 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 50
+  },
+  {
+    "id": "401",
+    "timestamp": "Tue Apr 21 03:41:40 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 81
+  },
+  {
+    "id": "402",
+    "timestamp": "Tue Apr 21 03:49:51 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 28
+  },
+  {
+    "id": "403",
+    "timestamp": "Tue Apr 21 04:37:53 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 8
+  },
+  {
+    "id": "404",
+    "timestamp": "Tue Apr 21 05:26:34 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 1
+  },
+  {
+    "id": "405",
+    "timestamp": "Tue Apr 21 05:36:49 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 83
+  },
+  {
+    "id": "406",
+    "timestamp": "Tue Apr 21 05:43:03 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 37
+  },
+  {
+    "id": "407",
+    "timestamp": "Tue Apr 21 05:57:09 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 37
+  },
+  {
+    "id": "408",
+    "timestamp": "Tue Apr 21 06:34:47 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 78
+  },
+  {
+    "id": "409",
+    "timestamp": "Tue Apr 21 07:04:33 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 17
+  },
+  {
+    "id": "410",
+    "timestamp": "Tue Apr 21 07:20:53 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 57
+  },
+  {
+    "id": "411",
+    "timestamp": "Tue Apr 21 08:00:55 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 51
+  },
+  {
+    "id": "412",
+    "timestamp": "Tue Apr 21 08:16:57 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 85
+  },
+  {
+    "id": "413",
+    "timestamp": "Tue Apr 21 08:53:52 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 37
+  },
+  {
+    "id": "414",
+    "timestamp": "Tue Apr 21 09:49:00 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 49
+  },
+  {
+    "id": "415",
+    "timestamp": "Tue Apr 21 10:30:05 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 29
+  },
+  {
+    "id": "416",
+    "timestamp": "Tue Apr 21 11:21:42 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 19
+  },
+  {
+    "id": "417",
+    "timestamp": "Tue Apr 21 11:28:54 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 3
+  },
+  {
+    "id": "418",
+    "timestamp": "Tue Apr 21 12:15:13 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 29
+  },
+  {
+    "id": "419",
+    "timestamp": "Tue Apr 21 13:07:52 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 46
+  },
+  {
+    "id": "420",
+    "timestamp": "Tue Apr 21 13:12:47 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 43
+  },
+  {
+    "id": "421",
+    "timestamp": "Tue Apr 21 14:00:09 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 24
+  },
+  {
+    "id": "422",
+    "timestamp": "Tue Apr 21 14:39:17 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 74
+  },
+  {
+    "id": "423",
+    "timestamp": "Tue Apr 21 15:23:51 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 53
+  },
+  {
+    "id": "424",
+    "timestamp": "Tue Apr 21 16:01:17 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 81
+  },
+  {
+    "id": "425",
+    "timestamp": "Tue Apr 21 16:46:52 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 30
+  },
+  {
+    "id": "426",
+    "timestamp": "Tue Apr 21 17:19:09 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 59
+  },
+  {
+    "id": "427",
+    "timestamp": "Tue Apr 21 18:13:17 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 4
+  },
+  {
+    "id": "428",
+    "timestamp": "Tue Apr 21 18:56:01 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 25
+  },
+  {
+    "id": "429",
+    "timestamp": "Tue Apr 21 19:36:19 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 3
+  },
+  {
+    "id": "430",
+    "timestamp": "Tue Apr 21 19:45:08 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 68
+  },
+  {
+    "id": "431",
+    "timestamp": "Tue Apr 21 20:12:20 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 50
+  },
+  {
+    "id": "432",
+    "timestamp": "Tue Apr 21 20:53:57 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 12
+  },
+  {
+    "id": "433",
+    "timestamp": "Tue Apr 21 21:29:05 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 52
+  },
+  {
+    "id": "434",
+    "timestamp": "Tue Apr 21 22:24:39 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 23
+  },
+  {
+    "id": "435",
+    "timestamp": "Tue Apr 21 22:46:51 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 79
+  },
+  {
+    "id": "436",
+    "timestamp": "Tue Apr 21 23:27:23 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 77
+  },
+  {
+    "id": "437",
+    "timestamp": "Wed Apr 22 00:01:26 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 25
+  },
+  {
+    "id": "438",
+    "timestamp": "Wed Apr 22 01:00:21 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 13
+  },
+  {
+    "id": "439",
+    "timestamp": "Wed Apr 22 01:13:00 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 77
+  },
+  {
+    "id": "440",
+    "timestamp": "Wed Apr 22 01:57:52 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 42
+  },
+  {
+    "id": "441",
+    "timestamp": "Wed Apr 22 02:03:27 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 69
+  },
+  {
+    "id": "442",
+    "timestamp": "Wed Apr 22 02:57:04 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 36
+  },
+  {
+    "id": "443",
+    "timestamp": "Wed Apr 22 03:43:40 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 54
+  },
+  {
+    "id": "444",
+    "timestamp": "Wed Apr 22 03:51:02 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 78
+  },
+  {
+    "id": "445",
+    "timestamp": "Wed Apr 22 04:23:32 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 32
+  },
+  {
+    "id": "446",
+    "timestamp": "Wed Apr 22 04:56:19 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 20
+  },
+  {
+    "id": "447",
+    "timestamp": "Wed Apr 22 05:22:49 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 35
+  },
+  {
+    "id": "448",
+    "timestamp": "Wed Apr 22 06:09:04 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 58
+  },
+  {
+    "id": "449",
+    "timestamp": "Wed Apr 22 06:42:42 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 35
+  },
+  {
+    "id": "450",
+    "timestamp": "Wed Apr 22 06:47:41 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 20
+  },
+  {
+    "id": "451",
+    "timestamp": "Wed Apr 22 07:19:54 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 6
+  },
+  {
+    "id": "452",
+    "timestamp": "Wed Apr 22 07:51:57 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 23
+  },
+  {
+    "id": "453",
+    "timestamp": "Wed Apr 22 08:04:49 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 7
+  },
+  {
+    "id": "454",
+    "timestamp": "Wed Apr 22 08:45:41 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 31
+  },
+  {
+    "id": "455",
+    "timestamp": "Wed Apr 22 09:39:14 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 61
+  },
+  {
+    "id": "456",
+    "timestamp": "Wed Apr 22 10:38:32 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 74
+  },
+  {
+    "id": "457",
+    "timestamp": "Wed Apr 22 10:48:28 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 69
+  },
+  {
+    "id": "458",
+    "timestamp": "Wed Apr 22 11:01:45 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 60
+  },
+  {
+    "id": "459",
+    "timestamp": "Wed Apr 22 11:39:22 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 33
+  },
+  {
+    "id": "460",
+    "timestamp": "Wed Apr 22 11:47:10 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 19
+  },
+  {
+    "id": "461",
+    "timestamp": "Wed Apr 22 12:27:44 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 61
+  },
+  {
+    "id": "462",
+    "timestamp": "Wed Apr 22 13:20:30 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 43
+  },
+  {
+    "id": "463",
+    "timestamp": "Wed Apr 22 13:52:41 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 17
+  },
+  {
+    "id": "464",
+    "timestamp": "Wed Apr 22 14:00:21 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 20
+  },
+  {
+    "id": "465",
+    "timestamp": "Wed Apr 22 14:15:00 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 5
+  },
+  {
+    "id": "466",
+    "timestamp": "Wed Apr 22 14:52:58 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 26
+  },
+  {
+    "id": "467",
+    "timestamp": "Wed Apr 22 15:19:40 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 23
+  },
+  {
+    "id": "468",
+    "timestamp": "Wed Apr 22 15:29:04 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 78
+  },
+  {
+    "id": "469",
+    "timestamp": "Wed Apr 22 15:51:39 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 15
+  },
+  {
+    "id": "470",
+    "timestamp": "Wed Apr 22 16:34:00 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 73
+  },
+  {
+    "id": "471",
+    "timestamp": "Wed Apr 22 17:33:01 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 61
+  },
+  {
+    "id": "472",
+    "timestamp": "Wed Apr 22 18:23:14 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 65
+  },
+  {
+    "id": "473",
+    "timestamp": "Wed Apr 22 19:02:32 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 58
+  },
+  {
+    "id": "474",
+    "timestamp": "Wed Apr 22 19:48:46 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 43
+  },
+  {
+    "id": "475",
+    "timestamp": "Wed Apr 22 20:35:02 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 4
+  },
+  {
+    "id": "476",
+    "timestamp": "Wed Apr 22 20:37:04 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 10
+  },
+  {
+    "id": "477",
+    "timestamp": "Wed Apr 22 20:50:17 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 49
+  },
+  {
+    "id": "478",
+    "timestamp": "Wed Apr 22 21:10:15 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 25
+  },
+  {
+    "id": "479",
+    "timestamp": "Wed Apr 22 21:50:15 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 65
+  },
+  {
+    "id": "480",
+    "timestamp": "Wed Apr 22 22:43:41 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 81
+  },
+  {
+    "id": "481",
+    "timestamp": "Wed Apr 22 23:28:24 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 86
+  },
+  {
+    "id": "482",
+    "timestamp": "Wed Apr 22 23:45:30 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 76
+  },
+  {
+    "id": "483",
+    "timestamp": "Thu Apr 23 00:45:25 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 37
+  },
+  {
+    "id": "484",
+    "timestamp": "Thu Apr 23 01:01:23 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 42
+  },
+  {
+    "id": "485",
+    "timestamp": "Thu Apr 23 01:54:56 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 48
+  },
+  {
+    "id": "486",
+    "timestamp": "Thu Apr 23 02:38:39 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 66
+  },
+  {
+    "id": "487",
+    "timestamp": "Thu Apr 23 03:25:18 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 40
+  },
+  {
+    "id": "488",
+    "timestamp": "Thu Apr 23 04:06:31 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 2
+  },
+  {
+    "id": "489",
+    "timestamp": "Thu Apr 23 04:40:01 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 27
+  },
+  {
+    "id": "490",
+    "timestamp": "Thu Apr 23 05:01:55 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 53
+  },
+  {
+    "id": "491",
+    "timestamp": "Thu Apr 23 05:11:22 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 41
+  },
+  {
+    "id": "492",
+    "timestamp": "Thu Apr 23 05:16:22 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 52
+  },
+  {
+    "id": "493",
+    "timestamp": "Thu Apr 23 05:58:21 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 78
+  },
+  {
+    "id": "494",
+    "timestamp": "Thu Apr 23 06:58:06 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 23
+  },
+  {
+    "id": "495",
+    "timestamp": "Thu Apr 23 07:08:46 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 77
+  },
+  {
+    "id": "496",
+    "timestamp": "Thu Apr 23 07:15:05 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 5
+  },
+  {
+    "id": "497",
+    "timestamp": "Thu Apr 23 07:35:56 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 36
+  },
+  {
+    "id": "498",
+    "timestamp": "Thu Apr 23 08:28:07 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 83
+  },
+  {
+    "id": "499",
+    "timestamp": "Thu Apr 23 08:39:04 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 69
+  },
+  {
+    "id": "500",
+    "timestamp": "Thu Apr 23 09:37:44 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 21
+  },
+  {
+    "id": "501",
+    "timestamp": "Thu Apr 23 10:27:53 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 23
+  },
+  {
+    "id": "502",
+    "timestamp": "Thu Apr 23 10:29:32 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 65
+  },
+  {
+    "id": "503",
+    "timestamp": "Thu Apr 23 11:25:35 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 46
+  },
+  {
+    "id": "504",
+    "timestamp": "Thu Apr 23 12:21:30 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 37
+  },
+  {
+    "id": "505",
+    "timestamp": "Thu Apr 23 12:31:36 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 50
+  },
+  {
+    "id": "506",
+    "timestamp": "Thu Apr 23 12:36:34 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 84
+  },
+  {
+    "id": "507",
+    "timestamp": "Thu Apr 23 13:07:13 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 71
+  },
+  {
+    "id": "508",
+    "timestamp": "Thu Apr 23 14:01:02 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 1
+  },
+  {
+    "id": "509",
+    "timestamp": "Thu Apr 23 14:56:15 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 79
+  },
+  {
+    "id": "510",
+    "timestamp": "Thu Apr 23 15:31:06 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 1
+  },
+  {
+    "id": "511",
+    "timestamp": "Thu Apr 23 16:07:51 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 44
+  },
+  {
+    "id": "512",
+    "timestamp": "Thu Apr 23 16:34:26 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 60
+  },
+  {
+    "id": "513",
+    "timestamp": "Thu Apr 23 17:06:07 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 39
+  },
+  {
+    "id": "514",
+    "timestamp": "Thu Apr 23 17:54:06 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 16
+  },
+  {
+    "id": "515",
+    "timestamp": "Thu Apr 23 18:33:35 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 71
+  },
+  {
+    "id": "516",
+    "timestamp": "Thu Apr 23 18:38:07 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 77
+  },
+  {
+    "id": "517",
+    "timestamp": "Thu Apr 23 18:58:34 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 36
+  },
+  {
+    "id": "518",
+    "timestamp": "Thu Apr 23 19:28:02 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 13
+  },
+  {
+    "id": "519",
+    "timestamp": "Thu Apr 23 19:57:30 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 62
+  },
+  {
+    "id": "520",
+    "timestamp": "Thu Apr 23 20:12:21 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 25
+  },
+  {
+    "id": "521",
+    "timestamp": "Thu Apr 23 20:24:20 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 27
+  },
+  {
+    "id": "522",
+    "timestamp": "Thu Apr 23 20:58:41 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 12
+  },
+  {
+    "id": "523",
+    "timestamp": "Thu Apr 23 21:24:13 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 76
+  },
+  {
+    "id": "524",
+    "timestamp": "Thu Apr 23 21:47:06 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 48
+  },
+  {
+    "id": "525",
+    "timestamp": "Thu Apr 23 22:35:29 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 81
+  },
+  {
+    "id": "526",
+    "timestamp": "Thu Apr 23 23:24:18 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 10
+  },
+  {
+    "id": "527",
+    "timestamp": "Thu Apr 23 23:29:52 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 69
+  },
+  {
+    "id": "528",
+    "timestamp": "Thu Apr 23 23:59:20 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 22
+  },
+  {
+    "id": "529",
+    "timestamp": "Fri Apr 24 00:58:29 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 73
+  },
+  {
+    "id": "530",
+    "timestamp": "Fri Apr 24 01:09:15 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 48
+  },
+  {
+    "id": "531",
+    "timestamp": "Fri Apr 24 01:22:35 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 23
+  },
+  {
+    "id": "532",
+    "timestamp": "Fri Apr 24 01:32:58 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 42
+  },
+  {
+    "id": "533",
+    "timestamp": "Fri Apr 24 01:35:38 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 62
+  },
+  {
+    "id": "534",
+    "timestamp": "Fri Apr 24 02:20:45 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 72
+  },
+  {
+    "id": "535",
+    "timestamp": "Fri Apr 24 02:38:49 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 72
+  },
+  {
+    "id": "536",
+    "timestamp": "Fri Apr 24 02:47:11 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 16
+  },
+  {
+    "id": "537",
+    "timestamp": "Fri Apr 24 02:58:37 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 73
+  },
+  {
+    "id": "538",
+    "timestamp": "Fri Apr 24 03:55:41 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 15
+  },
+  {
+    "id": "539",
+    "timestamp": "Fri Apr 24 04:33:39 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 72
+  },
+  {
+    "id": "540",
+    "timestamp": "Fri Apr 24 05:14:42 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 83
+  },
+  {
+    "id": "541",
+    "timestamp": "Fri Apr 24 05:45:34 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 72
+  },
+  {
+    "id": "542",
+    "timestamp": "Fri Apr 24 06:07:34 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 49
+  },
+  {
+    "id": "543",
+    "timestamp": "Fri Apr 24 06:27:47 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 81
+  },
+  {
+    "id": "544",
+    "timestamp": "Fri Apr 24 07:24:26 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 51
+  },
+  {
+    "id": "545",
+    "timestamp": "Fri Apr 24 08:16:04 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 70
+  },
+  {
+    "id": "546",
+    "timestamp": "Fri Apr 24 09:01:56 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 42
+  },
+  {
+    "id": "547",
+    "timestamp": "Fri Apr 24 09:33:28 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 38
+  },
+  {
+    "id": "548",
+    "timestamp": "Fri Apr 24 10:02:06 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 52
+  },
+  {
+    "id": "549",
+    "timestamp": "Fri Apr 24 10:56:32 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 1
+  },
+  {
+    "id": "550",
+    "timestamp": "Fri Apr 24 11:26:39 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 42
+  },
+  {
+    "id": "551",
+    "timestamp": "Fri Apr 24 11:50:17 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 62
+  },
+  {
+    "id": "552",
+    "timestamp": "Fri Apr 24 12:43:31 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 50
+  },
+  {
+    "id": "553",
+    "timestamp": "Fri Apr 24 13:24:45 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 86
+  },
+  {
+    "id": "554",
+    "timestamp": "Fri Apr 24 13:47:50 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 72
+  },
+  {
+    "id": "555",
+    "timestamp": "Fri Apr 24 14:05:21 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 53
+  },
+  {
+    "id": "556",
+    "timestamp": "Fri Apr 24 15:02:11 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 54
+  },
+  {
+    "id": "557",
+    "timestamp": "Fri Apr 24 16:00:14 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 55
+  },
+  {
+    "id": "558",
+    "timestamp": "Fri Apr 24 16:25:25 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 44
+  },
+  {
+    "id": "559",
+    "timestamp": "Fri Apr 24 16:28:23 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 72
+  },
+  {
+    "id": "560",
+    "timestamp": "Fri Apr 24 17:14:24 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 72
+  },
+  {
+    "id": "561",
+    "timestamp": "Fri Apr 24 17:28:32 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 81
+  },
+  {
+    "id": "562",
+    "timestamp": "Fri Apr 24 18:16:11 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 50
+  },
+  {
+    "id": "563",
+    "timestamp": "Fri Apr 24 18:57:31 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 4
+  },
+  {
+    "id": "564",
+    "timestamp": "Fri Apr 24 19:01:38 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 6
+  },
+  {
+    "id": "565",
+    "timestamp": "Fri Apr 24 19:49:57 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 18
+  },
+  {
+    "id": "566",
+    "timestamp": "Fri Apr 24 19:51:21 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 75
+  },
+  {
+    "id": "567",
+    "timestamp": "Fri Apr 24 20:46:08 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 73
+  },
+  {
+    "id": "568",
+    "timestamp": "Fri Apr 24 20:48:50 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 82
+  },
+  {
+    "id": "569",
+    "timestamp": "Fri Apr 24 21:26:42 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 71
+  },
+  {
+    "id": "570",
+    "timestamp": "Fri Apr 24 22:09:11 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 32
+  },
+  {
+    "id": "571",
+    "timestamp": "Fri Apr 24 22:46:56 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 1
+  },
+  {
+    "id": "572",
+    "timestamp": "Fri Apr 24 22:51:06 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 56
+  },
+  {
+    "id": "573",
+    "timestamp": "Fri Apr 24 23:15:28 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 62
+  },
+  {
+    "id": "574",
+    "timestamp": "Fri Apr 24 23:46:51 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 19
+  },
+  {
+    "id": "575",
+    "timestamp": "Fri Apr 24 23:55:39 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 46
+  },
+  {
+    "id": "576",
+    "timestamp": "Sat Apr 25 00:06:45 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 63
+  },
+  {
+    "id": "577",
+    "timestamp": "Sat Apr 25 01:03:23 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 17
+  },
+  {
+    "id": "578",
+    "timestamp": "Sat Apr 25 01:23:23 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 35
+  },
+  {
+    "id": "579",
+    "timestamp": "Sat Apr 25 01:35:56 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 52
+  },
+  {
+    "id": "580",
+    "timestamp": "Sat Apr 25 01:38:00 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 24
+  },
+  {
+    "id": "581",
+    "timestamp": "Sat Apr 25 02:12:24 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 42
+  },
+  {
+    "id": "582",
+    "timestamp": "Sat Apr 25 02:23:10 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 57
+  },
+  {
+    "id": "583",
+    "timestamp": "Sat Apr 25 02:28:47 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 25
+  },
+  {
+    "id": "584",
+    "timestamp": "Sat Apr 25 02:54:15 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 32
+  },
+  {
+    "id": "585",
+    "timestamp": "Sat Apr 25 03:23:23 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 49
+  },
+  {
+    "id": "586",
+    "timestamp": "Sat Apr 25 04:04:09 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 82
+  },
+  {
+    "id": "587",
+    "timestamp": "Sat Apr 25 04:18:50 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 11
+  },
+  {
+    "id": "588",
+    "timestamp": "Sat Apr 25 05:09:47 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 54
+  },
+  {
+    "id": "589",
+    "timestamp": "Sat Apr 25 05:45:01 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 1
+  },
+  {
+    "id": "590",
+    "timestamp": "Sat Apr 25 06:21:11 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 17
+  },
+  {
+    "id": "591",
+    "timestamp": "Sat Apr 25 07:02:09 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 6
+  },
+  {
+    "id": "592",
+    "timestamp": "Sat Apr 25 07:17:51 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 27
+  },
+  {
+    "id": "593",
+    "timestamp": "Sat Apr 25 07:58:00 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 71
+  },
+  {
+    "id": "594",
+    "timestamp": "Sat Apr 25 08:49:06 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 21
+  },
+  {
+    "id": "595",
+    "timestamp": "Sat Apr 25 09:02:51 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 60
+  },
+  {
+    "id": "596",
+    "timestamp": "Sat Apr 25 09:12:26 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 65
+  },
+  {
+    "id": "597",
+    "timestamp": "Sat Apr 25 10:12:20 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 41
+  },
+  {
+    "id": "598",
+    "timestamp": "Sat Apr 25 10:32:18 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 53
+  },
+  {
+    "id": "599",
+    "timestamp": "Sat Apr 25 11:02:55 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 71
+  },
+  {
+    "id": "600",
+    "timestamp": "Sat Apr 25 11:20:18 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 56
+  },
+  {
+    "id": "601",
+    "timestamp": "Sat Apr 25 12:00:39 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 42
+  },
+  {
+    "id": "602",
+    "timestamp": "Sat Apr 25 12:23:21 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 40
+  },
+  {
+    "id": "603",
+    "timestamp": "Sat Apr 25 13:08:50 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 26
+  },
+  {
+    "id": "604",
+    "timestamp": "Sat Apr 25 14:06:36 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 59
+  },
+  {
+    "id": "605",
+    "timestamp": "Sat Apr 25 14:30:48 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 36
+  },
+  {
+    "id": "606",
+    "timestamp": "Sat Apr 25 14:45:18 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 54
+  },
+  {
+    "id": "607",
+    "timestamp": "Sat Apr 25 14:57:36 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 50
+  },
+  {
+    "id": "608",
+    "timestamp": "Sat Apr 25 15:24:22 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 31
+  },
+  {
+    "id": "609",
+    "timestamp": "Sat Apr 25 15:34:32 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 79
+  },
+  {
+    "id": "610",
+    "timestamp": "Sat Apr 25 16:05:03 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 61
+  },
+  {
+    "id": "611",
+    "timestamp": "Sat Apr 25 16:59:40 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 38
+  },
+  {
+    "id": "612",
+    "timestamp": "Sat Apr 25 17:18:31 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 15
+  },
+  {
+    "id": "613",
+    "timestamp": "Sat Apr 25 18:03:31 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 6
+  },
+  {
+    "id": "614",
+    "timestamp": "Sat Apr 25 18:24:08 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 66
+  },
+  {
+    "id": "615",
+    "timestamp": "Sat Apr 25 18:29:14 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 46
+  },
+  {
+    "id": "616",
+    "timestamp": "Sat Apr 25 18:42:13 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 27
+  },
+  {
+    "id": "617",
+    "timestamp": "Sat Apr 25 19:07:36 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 74
+  },
+  {
+    "id": "618",
+    "timestamp": "Sat Apr 25 19:21:47 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 65
+  },
+  {
+    "id": "619",
+    "timestamp": "Sat Apr 25 19:52:32 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 27
+  },
+  {
+    "id": "620",
+    "timestamp": "Sat Apr 25 20:45:50 UTC 2020",
+    "username": "rosannaM",
+    "operation": "upload",
+    "size": 3
+  },
+  {
+    "id": "621",
+    "timestamp": "Sat Apr 25 21:02:31 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 71
+  },
+  {
+    "id": "622",
+    "timestamp": "Sat Apr 25 21:06:37 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 64
+  },
+  {
+    "id": "623",
+    "timestamp": "Sat Apr 25 21:23:22 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 68
+  },
+  {
+    "id": "624",
+    "timestamp": "Sat Apr 25 22:05:34 UTC 2020",
+    "username": "Maia86",
+    "operation": "upload",
+    "size": 52
+  },
+  {
+    "id": "625",
+    "timestamp": "Sat Apr 25 22:37:56 UTC 2020",
+    "username": "gillianC",
+    "operation": "download",
+    "size": 65
+  },
+  {
+    "id": "626",
+    "timestamp": "Sat Apr 25 23:34:59 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 10
+  },
+  {
+    "id": "627",
+    "timestamp": "Sat Apr 25 23:36:00 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 20
+  },
+  {
+    "id": "628",
+    "timestamp": "Sat Apr 25 23:45:34 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 1
+  },
+  {
+    "id": "629",
+    "timestamp": "Sun Apr 26 00:42:50 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 47
+  },
+  {
+    "id": "630",
+    "timestamp": "Sun Apr 26 01:27:08 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 14
+  },
+  {
+    "id": "631",
+    "timestamp": "Sun Apr 26 02:06:47 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 83
+  },
+  {
+    "id": "632",
+    "timestamp": "Sun Apr 26 02:42:52 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 68
+  },
+  {
+    "id": "633",
+    "timestamp": "Sun Apr 26 03:09:04 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 78
+  },
+  {
+    "id": "634",
+    "timestamp": "Sun Apr 26 03:24:35 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 3
+  },
+  {
+    "id": "635",
+    "timestamp": "Sun Apr 26 03:49:17 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 60
+  },
+  {
+    "id": "636",
+    "timestamp": "Sun Apr 26 04:14:21 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 38
+  },
+  {
+    "id": "637",
+    "timestamp": "Sun Apr 26 05:07:34 UTC 2020",
+    "username": "sarah94",
+    "operation": "upload",
+    "size": 42
+  },
+  {
+    "id": "638",
+    "timestamp": "Sun Apr 26 05:37:20 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 78
+  },
+  {
+    "id": "639",
+    "timestamp": "Sun Apr 26 06:30:34 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 85
+  },
+  {
+    "id": "640",
+    "timestamp": "Sun Apr 26 07:12:08 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 75
+  },
+  {
+    "id": "641",
+    "timestamp": "Sun Apr 26 08:00:25 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 48
+  },
+  {
+    "id": "642",
+    "timestamp": "Sun Apr 26 08:49:27 UTC 2020",
+    "username": "Maia86",
+    "operation": "download",
+    "size": 58
+  },
+  {
+    "id": "643",
+    "timestamp": "Sun Apr 26 09:32:06 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 24
+  },
+  {
+    "id": "644",
+    "timestamp": "Sun Apr 26 10:16:35 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 27
+  },
+  {
+    "id": "645",
+    "timestamp": "Sun Apr 26 10:54:58 UTC 2020",
+    "username": "sarah94",
+    "operation": "download",
+    "size": 84
+  },
+  {
+    "id": "646",
+    "timestamp": "Sun Apr 26 11:18:50 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "download",
+    "size": 20
+  },
+  {
+    "id": "647",
+    "timestamp": "Sun Apr 26 11:28:27 UTC 2020",
+    "username": "rosannaM",
+    "operation": "download",
+    "size": 4
+  },
+  {
+    "id": "648",
+    "timestamp": "Sun Apr 26 12:28:01 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 66
+  },
+  {
+    "id": "649",
+    "timestamp": "Sun Apr 26 12:28:16 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 60
+  },
+  {
+    "id": "650",
+    "timestamp": "Sun Apr 26 12:34:56 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 75
+  },
+  {
+    "id": "651",
+    "timestamp": "Sun Apr 26 13:02:48 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 51
+  },
+  {
+    "id": "652",
+    "timestamp": "Sun Apr 26 13:37:11 UTC 2020",
+    "username": "gillianC",
+    "operation": "upload",
+    "size": 42
+  },
+  {
+    "id": "653",
+    "timestamp": "Sun Apr 26 13:42:01 UTC 2020",
+    "username": "jordonGriff",
+    "operation": "upload",
+    "size": 33
+  },
+  {
+    "id": "654",
+    "timestamp": "Sun Apr 26 14:36:12 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 79
+  },
+  {
+    "id": "655",
+    "timestamp": "Sun Apr 26 14:56:26 UTC 2020",
+    "username": "jeff22",
+    "operation": "download",
+    "size": 80
+  },
+  {
+    "id": "656",
+    "timestamp": "Sun Apr 26 15:12:00 UTC 2020",
+    "username": "jeff22",
+    "operation": "upload",
+    "size": 73
+  }
+]
