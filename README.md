@@ -61,7 +61,6 @@ One of my usual practices is to encapsulate state/state operations/effects into 
 What assumptions did you make while completing the test? Were there any questions you would have asked in a real-world scenario?
 
 -  I assumed the files sizes are in kb by I would definitely want to follow up on that.
--  I assumed it would be ok to include this all on one page.
 -  I assumed that it would be ok to combine all the story "filters" into a single page that has all the features available.
 
 ## Thoughts
