@@ -82,3 +82,4 @@ Given more time, what would you change to make things production ready or add th
 -  Overall layout is a bit rough and quick. I would want to iterate the UI to make it feel a bit more cohesive and, for lack of a better word, pretty.
 -  I would prefer to have the datepicker UI in a separate component but I did not have enough time to refactor that piece. As a matter of aesthetics, I encapsulated it into a variable within the component body. I would prefer a separate component in it's own module.
 -  There's some warnings about a `useMemo` dependancy array that I would want to take a look at optimizing as well.
+-  I didn't test thoroughly on mobile and would want to refine the responsive elements of the UI to scale well on small displays.
